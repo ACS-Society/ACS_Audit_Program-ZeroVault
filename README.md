@@ -13,6 +13,11 @@
 Established in 2023, the Association for Cyber Security (ACS) is dedicated to educating and raising awareness about the critical importance of cybersecurity in today's rapidly evolving digital landscape. Despite our modest beginnings, ACS has grown into a thriving community with over 3000+ members active across various social platforms, fostering a dynamic synergy between our organization and the broader community.
 </div>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/5e169fe4-b247-4807-a8b0-f19e4d449d16">
+</div>
+
+
 ### ZeroVault 
 
 The Zerovault contract manages collateralized tokens, allowing users to mint tokens by depositing collateral and burn tokens to reclaim their collateral. It tracks user balances and total collateral, with functions to adjust the collateralization ratio and token price. The contract includes owner-only controls and emergency withdrawal capabilities.
